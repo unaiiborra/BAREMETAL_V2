@@ -1,6 +1,6 @@
-# Bare-metal OS – V2 (Raspberry Pi Zero 2 W)
+# Bare-metal terminal – V2 (Raspberry Pi Zero 2 W)
 
-This repository represent the second iteration of a bare-metal operating system for the Raspberry Pi Zero 2 W, built without any underlying operating system or emulation.
+This repository represent the second iteration of a bare-metal terminal for the Raspberry Pi Zero 2 W, built without any underlying operating system or emulation.
 
 The goal was to learn how ARM-based systems boot and communicate with hardware at the lowest level, using Assembly and C++ to interact directly with memory-mapped I/O registers. This includes manually handling GPIO and UART via PL011 registers.
 
